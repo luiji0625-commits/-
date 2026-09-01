@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# 実データは共有しない。サンプルとinboxの置き場だけ残す。
+data/offers/offers.csv
+data/offers/inbox/*
+!data/offers/inbox/.gitkeep
+data/conversions/conversions.csv

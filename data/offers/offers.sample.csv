@@ -1,0 +1,10 @@
+collected_on,asp,merchant,program_id,program_name,category,customer_price_monthly,initial_reward_yen,recurring_reward_monthly_yen,recurring_cap_months,approval_rate,churn_monthly,churn_source,landing_url,notes
+2026-09-01,A8.net,サンプル動画配信,a8-1001,VOD月額プラン 継続報酬,VOD,1980,500,300,0,0.82,0.09,own_cohort,https://example.com/vod,自社2025年コホートで解約率実測
+2026-09-01,afb,サンプル会計SaaS,afb-2002,クラウド会計 個人事業主プラン,SaaS,2980,1000,900,12,0.75,0.05,merchant_disclosed,https://example.com/saas,広告主が平均継続24ヶ月と開示
+2026-09-01,バリューコマース,サンプル英会話,vc-3003,オンライン英会話 月額,教育,6800,2000,400,0,0.7,0.14,category_proxy,https://example.com/eikaiwa,語学カテゴリ推定値
+2026-09-01,もしもアフィリエイト,サンプルVPN,ms-4004,VPNサブスク 年間プラン,ツール,1200,800,0,0,0.9,0.06,own_cohort,https://example.com/vpn,継続報酬なし=対象外
+2026-09-01,A8.net,サンプルサプリ定期,a8-1005,健康サプリ定期便,健康食品,4980,3000,200,3,0.55,0.28,category_proxy,https://example.com/supple,定期縛りなし・解約率高
+2026-09-01,afb,サンプルウォーターサーバー,afb-2006,ウォーターサーバー レンタル,生活,3300,5000,150,0,0.65,0.04,merchant_disclosed,https://example.com/water,長期継続だが単月報酬小
+2026-09-01,バリューコマース,サンプル動画編集ツール,vc-3007,動画編集SaaS 月額,SaaS,1480,300,1000,0,0.78,0.11,category_proxy,https://example.com/editor,推定値・マージン適用で惜しくも除外
+2026-09-01,もしもアフィリエイト,サンプル家事代行,ms-4008,家事代行 定期プラン,生活,9800,4000,800,6,0.6,0.16,category_proxy,https://example.com/kaji,解約率が基準超過
+2026-09-01,A8.net,サンプル勤怠SaaS,a8-1009,勤怠管理SaaS 法人プラン,SaaS,9800,1500,1200,0,0.8,0.04,own_cohort,https://example.com/kintai,BtoB・自社実績で低解約率

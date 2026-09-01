@@ -1,0 +1,3 @@
+asp,merchant,program_id,program_name,category,churn_monthly,churn_source,confidence,expected_months,evaluated_horizon,ltv_yen,ltv_floor_applied,churn_ceiling_applied,approval_rate,landing_url,notes,verdict,verdict_raw,reasons
+A8.net,サンプル勤怠SaaS,a8-1009,勤怠管理SaaS 法人プラン,SaaS,0.04,own_cohort,高,14.99,24,15590,6000,0.15,0.8,https://example.com/kintai,BtoB・自社実績で低解約率,PASS,PASS,
+afb,サンプル会計SaaS,afb-2002,クラウド会計 個人事業主プラン,SaaS,0.05,merchant_disclosed,高,8.73,12,6645,6000,0.15,0.75,https://example.com/saas,広告主が平均継続24ヶ月と開示,PASS,PASS,

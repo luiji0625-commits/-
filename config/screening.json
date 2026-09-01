@@ -1,0 +1,9 @@
+{
+  "horizon_months": 24,
+  "ltv_floor_yen": 6000,
+  "churn_ceiling_monthly": 0.15,
+  "min_approval_rate": 0.6,
+  "low_confidence_margin": 0.2,
+  "high_confidence_sources": ["own_cohort", "merchant_disclosed"],
+  "target_asps": ["A8.net", "afb", "バリューコマース", "もしもアフィリエイト"]
+}
